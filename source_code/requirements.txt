@@ -33,7 +33,7 @@ h5py==3.1.0
 idna==2.10
 importlib-metadata==4.5.0
 ipykernel==5.5.5
-ipython==7.24.1
+ipython==7.31.1
 ipython-genutils==0.2.0
 itsdangerous==2.0.1
 jedi==0.18.0
