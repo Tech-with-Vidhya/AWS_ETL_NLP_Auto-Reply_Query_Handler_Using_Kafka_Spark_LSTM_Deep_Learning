@@ -14,6 +14,8 @@ This project automatically replies to query-related tweets with a trackable tick
 
 <h3><b><u>Dataset:</u></b></h3>
 
+<h3><a href="https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment" style="color: blue"><b><u>US Airlines Tweets Dataset</u></b></a></h3>
+
 For the training purposes in this project, we have used an “airline tweets” dataset, which includes necessary fields like airline names as tags, actual text, sentiment class, i.e., positive, negative, or neutraland a topic class which can be one of these:
 
 1. Baggage Issue
