@@ -49,4 +49,4 @@ Python, Confluent Kafka, Spark, os, pandas, numpy, matplotlib, nltk, pyspark, tw
 
 This project is referenced and inspired from ProjectPro list of project ideas.
 
-<h4><a href="https://www.projectpro.io/project-use-case/twitter-kafka-spark-streaming-python" style="color: blue"><b><u>US Airlines Tweets Dataset</u></b></a></h4>
+<h4><a href="https://www.projectpro.io/project-use-case/twitter-kafka-spark-streaming-python" style="color: blue"><b><u>ProjectPro Reference</u></b></a></h4>
