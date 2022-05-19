@@ -44,3 +44,9 @@ For the training purposes in this project, we have used an “airline tweets” 
 <h3><b><u>Tools & Technologies:</u></b></h3>
 
 Python, Confluent Kafka, Spark, os, pandas, numpy, matplotlib, nltk, pyspark, tweepy, Flask, spacy, kafka, sklearn, tensorflow, keras, AWS ECR, AWS EC2, boto3, AWS CLI, AWS IAM
+
+<h3><b><u>References:</u></b></h3>
+
+This project is referenced and inspired from ProjectPro list of project ideas.
+
+<h4><a href="https://www.projectpro.io/project-use-case/twitter-kafka-spark-streaming-python" style="color: blue"><b><u>US Airlines Tweets Dataset</u></b></a></h4>
