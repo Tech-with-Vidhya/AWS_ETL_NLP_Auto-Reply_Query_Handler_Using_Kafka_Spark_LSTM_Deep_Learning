@@ -127,6 +127,6 @@ wasabi==0.8.2
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.1.0
-Werkzeug==2.0.1
+Werkzeug==2.2.3
 wrapt==1.12.1
 zipp==3.4.1
